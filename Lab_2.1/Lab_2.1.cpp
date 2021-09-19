@@ -23,6 +23,7 @@ int main()
 	cout << "z1 = " << z1 << endl;  //Âèâ³ä z1
 	cout << "z2 = " << z2 << endl;  //Âèâ³ä z2
 	cout << "Ôàéíî" << endl;
+	cout << "ªªªªªªªªªªªªªªªªªªªªªªªªªª!!!!!!!!!!!!!!!!!" << endl;
 
 	cin.get();
 	return 0;
