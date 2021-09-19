@@ -3,3 +3,5 @@
 .vs/
 /vs
 vs/
+.vs/Lab_2.1/v16/.suo
+.vs/Lab_2.1/v16/Browse.VC.db
